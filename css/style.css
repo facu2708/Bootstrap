@@ -1,0 +1,54 @@
+/* Estilos navbar */
+.navbar-expand-lg{
+    display: flexbox;
+    justify-content: end;
+}
+/* Estilos inicio */
+.tituloInicio{
+    display: flex;
+    justify-content: center;
+}
+/* Estilos pagina sobre mi */
+.cv{
+    display: flex;
+    justify-content: center;
+}
+.fotoMaxi{
+        max-width: 600px;
+        max-height: 600px;
+        padding-bottom: 60px;
+        margin-top: 20px;
+}
+
+
+
+/* Estilos pagina contacto */
+.mapa{
+    position: relative;
+    top: -428px;
+    right: -620px;
+}
+
+.input1{
+     margin-left: 1rem;
+}
+.enviar{
+    text-decoration:none;
+    font-weight: 600;
+    font-size: 20px;
+    color:#ffffff;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color:#005eff;
+    border-color: #9dcdf6;
+    border-width: 3px;
+    border-style: solid;
+}
+.footer{
+    margin-top: 1.5rem;
+    text-align: center;
+    text-decoration: none;
+}
+
